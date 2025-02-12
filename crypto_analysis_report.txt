@@ -1,0 +1,19 @@
+
+     **Top 5 Cryptocurrencies by Market Cap**
+    Cryptocurrency Name  Market Capitalization
+            Bitcoin          1900471647703
+           Ethereum           313918565638
+             Tether           141921686807
+                XRP           138618892186
+             Solana            94800437410
+    
+     **Average Price of Top 50 Cryptos:** 4152.55 USD
+    
+    **Highest 24h Price Change:**
+    Cryptocurrency Name        Dai
+24h Price Change (%)    0.0107
+    
+     **Lowest 24h Price Change:**
+    Cryptocurrency Name     Litecoin
+24h Price Change (%)     -9.9662
+    
